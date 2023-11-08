@@ -1,5 +1,6 @@
-if name == '__main__':
-  pass
-  
 def test_main():
-  pass
+    pass
+
+
+if __name__ == "__main__":
+    test_main()
