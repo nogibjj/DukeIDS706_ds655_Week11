@@ -1,6 +1,6 @@
 # Building an end-to-end data pipeline in Databricks [![Python CI](https://github.com/nogibjj/DukeIDS706_ds655_Week11/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/DukeIDS706_ds655_Week11/actions/workflows/main.yml)
 
-
+A comprehensive guide on how to build a pipeline can be found [here](https://docs.databricks.com/en/getting-started/data-pipeline-get-started.html)
 
 
 
