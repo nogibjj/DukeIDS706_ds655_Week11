@@ -5,12 +5,12 @@ install:
 
 #Adding this to format code using black
 format:	
-	black \Codes/main.py 
+	black \Codes/*.py 
 
 test:
 	python -m pytest \Codes/Test_*.py
 
 lint:
-	ruff check \Codes/*.py
+	ruff check \Codes/main.py
 
 all: install format lint test
