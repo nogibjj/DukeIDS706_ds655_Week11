@@ -2,11 +2,15 @@
 
 A comprehensive guide on how to build a pipeline can be found [here](https://docs.databricks.com/en/getting-started/data-pipeline-get-started.html)
 
+Creating an Azure Workspace with [Databricks](https://www.databricks.com/) for running an end to end pipeline. We are using Python, Pyspark, and SQL to ingest, extract, and query the [Million Songs Dataset](http://millionsongdataset.com/)
 
 
+Azure Workspace created for this repository can be foung [here](https://adb-8099400380924769.9.azuredatabricks.net/browse/folders/2356281951630556?o=8099400380924769)
+
+![Workflow Run](https://github.com/nogibjj/DukeIDS706_ds655_Week11/blob/6f270c9cb6a3c2977029f5ab6da5056caf351c70/Resources/1112_workflow.png)
 
 
-
+![Successful Run](https://github.com/nogibjj/DukeIDS706_ds655_Week11/blob/6f270c9cb6a3c2977029f5ab6da5056caf351c70/Resources/1112_Successful_Run.png)
 
 
 Files in this repository include:
