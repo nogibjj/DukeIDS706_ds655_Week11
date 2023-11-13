@@ -5,7 +5,7 @@ install:
 
 #Adding this to format code using black
 format:	
-	black \Codes/*.py 
+	black \Codes/main.py 
 
 test:
 	python -m pytest \Codes/Test_*.py
